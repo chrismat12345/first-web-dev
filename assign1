@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>just html page</title>
+    </head>
+    <body style="display: block">
+        <h1>this your first HTML page</h1>
+        <h2>seem like thing are going pretty well so far</h2>
+        <h4>lets add a recipe for some delicious chocolate chip cookies</h4>
+    <p style="font-size: 25px">we are going to borrow a nice picture from general mills </p>
+    <img src="recipe.jpg" alt="chocolate chip" width="300px height="300px"> 
+    <ul>
+        <p style="font-size: 25px"> Here is what the recipe calls for</p>
+        <caption><b>Ingredients </b>(probably not right...)</caption>
+        <li>6 Eggs</li>
+        <li>2 Cups of flour</li>
+        <li>2 Tablespoon of vanilla extract</li>
+        <li>2 Teaspoon of baking powder</li>
+        <li> 1 cup of sugar</li>
+    </ul>
+<ol>
+<caption><b>Istruction </b>(may or may not be correct)</caption>
+<li>Add eggs, flour and vanilla extract and mix</li>
+<li>combine with sugar and baking powder and stir </li>
+<li>Eat half the cookie batter because it is delicious</li>
+<li>Take the rest of the cookie batter and make cookies</li>
+<li><Bake at 350 for 25 minutes/li>
+    <li>Enjoy!</li>
+</ol>
+<hr>
+    <p>oh you don't trust us? you want to see the actual recipes? you can view it <a href="http://.www.generalmills.com">Here</a></p>
+    </body>
+</html>
